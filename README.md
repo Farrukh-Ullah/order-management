@@ -88,17 +88,6 @@ Vue frontend typically runs at: `http://localhost:8080`
 | GET    | `/api/customers`                 | List customers              |
 | GET    | `/api/items`                     | List available items        |
 
----
-
-## 🖼 Screenshots
-
-> Include UI screenshots here (Order list, Order form, Summary)
-
----
-
-## 🧑‍💻 Author
-
-**Your Name** – [@yourgithub](https://github.com/yourgithub)
 
 ---
 
