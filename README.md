@@ -51,6 +51,9 @@ php artisan key:generate
 # Run migrations
 php artisan migrate
 
+# Import Dummy Data
+php artisan db:seed
+
 # Start the server
 php artisan serve
 ```
