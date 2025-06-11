@@ -11,6 +11,11 @@ const routes = [
     component: OrderList
   },
   {
+    path: "/",
+    name: "order-list",
+    component: OrderList
+  },
+  {
     path: "/orders/create",
     name: "order-create",
     component: OrderForm
